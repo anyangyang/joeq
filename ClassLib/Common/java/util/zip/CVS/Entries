@@ -1,0 +1,18 @@
+/Adler32.java/1.4/Thu Jul 24 05:41:51 2003//
+/CRC32.java/1.4/Thu Jul 24 05:41:56 2003//
+/Deflater.java/1.5/Thu Jul 24 05:42:02 2003//
+/DeflaterConstants.java/1.4/Thu Jul 24 05:42:03 2003//
+/DeflaterEngine.java/1.7/Thu Jul 24 05:42:04 2003//
+/DeflaterHuffman.java/1.5/Thu Jul 24 05:42:05 2003//
+/DeflaterPending.java/1.4/Thu Jul 24 05:42:07 2003//
+/InflaterDynHeader.java/1.5/Thu Jul 24 05:42:12 2003//
+/InflaterHuffmanTree.java/1.5/Thu Jul 24 05:42:12 2003//
+/InflaterInputStreamWrapper.java/1.5/Thu Jul 24 05:42:13 2003//
+/OutputWindow.java/1.4/Thu Jul 24 05:42:17 2003//
+/PendingBuffer.java/1.4/Thu Jul 24 05:42:23 2003//
+/StreamManipulator.java/1.4/Thu Jul 24 05:42:24 2003//
+/ZipConstants.java/1.5/Thu Jul 24 05:42:24 2003//
+/ZipEntry.java/1.7/Thu Jul 24 05:42:25 2003//
+/Inflater.java/1.10/Wed Aug 13 01:52:37 2003//
+/ZipFile.java/1.19/Wed Aug 13 01:52:39 2003//
+D
